@@ -37,7 +37,7 @@
 		 var centroQ = L.marker([-0.1865938,-78.5706267]).addTo(mymap);*/
 
 		//Panecillo
-		var lug2 = L.map('mapid').setView([-0.2216564,-78.5133852], 13);
+		var lug3 = L.map('mapid').setView([-0.2241477,-78.5164285], 13);
 
 		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 			maxZoom: 18,
@@ -45,14 +45,14 @@
 				'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 				'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 			id: 'mapbox.streets'
-		}).addTo(lug2);
+		}).addTo(lug3);
 
-		var panecillo = L.marker([-0.2216564,-78.5133852]).addTo(lug2);
+		var Ronda = L.marker([-0.2241477,-78.5164285]).addTo(lug3);
 
 		var popup = L.popup()
-			.setLatLng([-0.2216564,-78.5133852])
-			.setContent("El Simón Bolívar.")
-			.openOn(lug2);
+			.setLatLng([-0.2241477,-78.5164285])
+			.setContent("La Calle de la Ronda.")
+			.openOn(lug3);
 
 		
 
@@ -68,8 +68,15 @@
 			.setContent("El Teatro Simon Bolivar.")
 			.openOn(lug2);
 
-// -0.2192493,-78.5104751 teatro sucre
-// 
+// -0.2192493,-78.5104751, teatro sucre
+// -0.2230599,-78.5172466, museo de la Ciudad de Quito
+// -0.2185633,-78.5135661, banco central del Ecuador (atiguo)
+// 0.2154759,-78.5098654, basilica del devoto nacional, Quito
+// -0.2204725,-78.5147612,  Catedral Metropolitana de Quito, Eugenio Espejo, Quito
+// -0.2227502,-78.5173526, Museo del Carmen Alto, Quito
+// -0.2179875,-78.5157497, La Merced
+// -0.2179875,-78.5157497, plaza de San Agustín
+// -0.224207,-78.5147612, Iglesia y plaza de Santo Domingo
 
 	</script>
 
