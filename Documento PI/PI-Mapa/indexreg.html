@@ -37,7 +37,7 @@
 		 var centroQ = L.marker([-0.1865938,-78.5706267]).addTo(mymap);*/
 
 		//Panecillo
-		var lug2 = L.map('mapid').setView([-0.2216564,-78.5133852], 13);
+		var lug1 = L.map('mapid').setView([-0.2307987, -78.5234213], 13);
 
 		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 			maxZoom: 18,
@@ -45,14 +45,14 @@
 				'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 				'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 			id: 'mapbox.streets'
-		}).addTo(lug2);
+		}).addTo(lug1);
 
-		var panecillo = L.marker([-0.2216564,-78.5133852]).addTo(lug2);
+		var panecillo = L.marker([-0.2307987, -78.5234213]).addTo(lug1);
 
 		var popup = L.popup()
-			.setLatLng([-0.2216564,-78.5133852])
-			.setContent("El Simón Bolívar.")
-			.openOn(lug2);
+			.setLatLng([-0.2307987, -78.5234213])
+			.setContent("El Panecillo.")
+			.openOn(lug1);
 
 		
 
