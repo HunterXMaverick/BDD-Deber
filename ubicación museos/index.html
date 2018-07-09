@@ -24,7 +24,7 @@
 	<div id="mapid" style="width: 600px; height: 400px;"></div>
 	<script>
 		//Centro de Quito	
-		var mymap = L.map('mapid').setView([-0.220815, -78.5113694], 13);
+		var mymap = L.map('mapid').setView([-0.220815, -78.5113694], 15);
 
 		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 			maxZoom: 18,
@@ -70,22 +70,70 @@
 			.setContent("El teatro Sucre.")
 			.openOn(mymap);
 
-		//museo de la Ciudad de Quito
-		var teatroSucre = L.marker([-0.2230599, -78.5172466]).addTo(mymap);
+		//Museo de la Ciudad de Quito
+		var ciudadQuito = L.marker([-0.2230599, -78.5172466]).addTo(mymap);
 
 		var popup = L.popup()
 			.setLatLng([-0.2230599, -78.5172466])
-			.setContent("Museo de la Ciudad de Quito")
+			.setContent("Museo de la Ciudad de Quito.")
 			.openOn(mymap);
 
-		
-// -0.2185633,-78.5135661, banco central del Ecuador (atiguo)
-// 0.2154759,-78.5098654, basilica del devoto nacional, Quito
-// -0.2204725,-78.5147612,  Catedral Metropolitana de Quito, Eugenio Espejo, Quito
-// -0.2227502,-78.5173526, Museo del Carmen Alto, Quito
-// -0.2179875,-78.5157497, La Merced
-// -0.2179875,-78.5157497, plaza de San Agustín
-// -0.224207,-78.5147612, Iglesia y plaza de Santo Domingo
+
+		//Banco central del Ecuador (atiguo)
+		var bancoCentral = L.marker([-0.2185633,-78.5135661]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([-0.2185633,-78.5135661])
+			.setContent("Antiguo Banco Central del Ecuador.")
+			.openOn(mymap);
+
+		//Basilica del devoto nacional, Quito
+		var basilica = L.marker([0.2154759,-78.5098654]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([0.2154759,-78.5098654])
+			.setContent("La Basilica.")
+			.openOn(mymap);
+
+		// Catedral Metropolitana de Quito, Eugenio Espejo, Quito
+		var catedralQuito = L.marker([-0.2204725,-78.5147612]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([-0.2204725,-78.5147612])
+			.setContent("Catedral Metropolitana de Quito.")
+			.openOn(mymap);
+
+		//Museo del Carmen Alto, Quito
+		var carmenAlto = L.marker([-0.2227502,-78.5173526]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([-0.2227502,-78.5173526])
+			.setContent("Museo del Carmen Alto.")
+			.openOn(mymap);
+
+		// La Merced
+		var mercerd = L.marker([-0.2179875,-78.5157497]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([-0.2179875,-78.5157497])
+			.setContent("La Merced.")
+			.openOn(mymap);
+
+		//Plaza de San Agustín
+		var sanAgustin = L.marker([-0.2179875,-78.5157497]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([-0.2230599, -78.5172466])
+			.setContent("Plaza de San Agustín.")
+			.openOn(mymap);
+
+		//Iglesia y plaza de Santo Domingo
+		var santoDomingo = L.marker([-0.224207,-78.5147612]).addTo(mymap);
+
+		var popup = L.popup()
+			.setLatLng([-0.224207,-78.5147612])
+			.setContent("Museo de la Ciudad de Quito")
+			.openOn(mymap);
 
 	</script>
 
