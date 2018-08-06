@@ -6,6 +6,8 @@ Create table Persona (
 id int not null auto_increment,
 nombre varchar (50) not null,
 apellido varchar (50) not null,
+fechaNacimiento varchar (20) not null,
+edad int null,
 correo varchar (100) not null,
 primary key (id));
 
