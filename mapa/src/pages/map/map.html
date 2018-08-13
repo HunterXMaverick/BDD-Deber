@@ -5,9 +5,13 @@
     </button>
     <ion-title>Mapa</ion-title>
   </ion-navbar>
+  <ion-row responsive-sm>
+    <ion-col>
+      
+    </ion-col>
+  </ion-row>
 </ion-header>
 
-<ion-content [attr.noScroll]="shouldScroll">
-<div id='map'></div>
-
+<ion-content [attr.newScroll] = 'shouldScroll'>
+  <div id = "map"></div>
 </ion-content>

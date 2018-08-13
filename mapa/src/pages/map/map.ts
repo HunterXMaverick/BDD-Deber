@@ -1,15 +1,17 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
-import * as Leaflet from 'leaflet';
+import * as Leaflet from 'leaflet'
+import 'leaflet-draw';
+
 
 declare const L: any;
 
 @Component({
-  selector: 'page-map',
+  selector: 'page-Map',
   templateUrl: 'map.html'
 })
-export class MapPage {
+export class MapaPage {
 
   map: any;
   data: any;
@@ -18,6 +20,7 @@ export class MapPage {
   constructor(public navCtrl: NavController) {
 
   }
+
   ngOnInit(): void {
     this.drawMap();
   }
@@ -35,6 +38,7 @@ export class MapPage {
       .setLatLng([-0.2307987, -78.5234213])
       .setContent("El Panecillo.")
       .openOn(this.map);
+
     //Calle de la Ronda
     var calleoRonda = L.marker([-0.221765, -78.5137505]).addTo(this.map);
 
@@ -124,6 +128,7 @@ export class MapPage {
       .setContent("Museo de la Ciudad de Quito")
       .openOn(this.map);
 
-  }
 
+  }
+  
 }

@@ -1,5 +1,9 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
+import { NavParams } from 'ionic-angular';
+
+import { MapaPage } from '../map/map';
+
 
 @Component({
   selector: 'page-home',
@@ -7,8 +11,18 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
+  usuario: string;
+  contrasena: string;
+
+  constructor(public navCtrl: NavController, public navParams: NavParams) {
 
   }
 
+  ingresar() {
+    this.navCtrl.push(MapaPage);
+  }
+  
+  ionViewDidLoad() {
+    console.log('ionViewDidLoad HomePage');
+  }
 }
