@@ -1,28 +1,29 @@
 import { Component } from '@angular/core';
-import { NavController } from 'ionic-angular';
-import {MapaPage} from '../map/map';
+import { NavController, NavParams } from 'ionic-angular';
+import { MapaPage } from '../map/map';
 
 @Component({
   selector: 'page-lista',
   templateUrl: 'lista.html'
 })
 export class ListaPage {
-  items = [
-    'Panecillo',
-    'Calle de la Ronda',
-    'Teatro Simon Bolivar',
-    'Teatro Sucre',
-    'Museo de la Ciudad de Quito',
-    'Banco central del Ecuador (atiguo)',
-    'Basilica del devoto nacional, Quito',
-    'Catedral Metropolitana de Quito',
-    'Museo del Carmen Alto',
-    'La Merced',
-    'Plaza de San Agustín',
-    'plaza de Santo Domingo'
-  ];
-  constructor(public navCtrl: NavController) {
+  listas = [];
 
+  constructor(public navCtrl: NavController) {
+    this.listas = [
+      {
+        'title': 'Panecillo',
+        'icon': 'image',
+        'description': 'A powerful Javascript framework for building single page apps. Angular is open source, and maintained by Google.',
+        'color': '#0CA9EA'
+      },
+      {
+        'title': 'Calle de la Ronda',
+        'icon': 'image',
+        'description': 'The latest version of cascading stylesheets - the styling language of the web!',
+        'color': '#0CA9EA'
+      }
+    ];
   }
   lista() {
     this.navCtrl.push(MapaPage);
