@@ -3,6 +3,7 @@ import { NavController } from 'ionic-angular';
 
 import * as Leaflet from 'leaflet'
 import 'leaflet-draw';
+import { ListaPage } from '../lista/lista';
 
 
 declare const L: any;
@@ -88,7 +89,7 @@ export class MapaPage {
       .setContent("La Basilica.")
       .openOn(this.map);
 
-    // Catedral Metropolitana de Quito, Eugenio Espejo, Quito
+    // Catedral Metropolitana de Quito
     var catedralQuito = L.marker([-0.2204725, -78.5147612]).addTo(this.map);
 
     var popup = L.popup()
@@ -96,7 +97,7 @@ export class MapaPage {
       .setContent("Catedral Metropolitana de Quito.")
       .openOn(this.map);
 
-    //Museo del Carmen Alto, Quito
+    //Museo del Carmen Alto
     var carmenAlto = L.marker([-0.2227502, -78.5173526]).addTo(this.map);
 
     var popup = L.popup()
@@ -130,5 +131,13 @@ export class MapaPage {
 
 
   }
-  
+
+  lista() {
+    this.navCtrl.push(ListaPage);
+    
+  }
+
+  ionViewDidLoad() {
+    console.log('ionViewDidLoad MapaPage');
+  }
 }

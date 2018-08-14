@@ -7,11 +7,19 @@
   </ion-navbar>
   <ion-row responsive-sm>
     <ion-col>
+
+      <button ion-button
+            
       
+      (click)="lista()">
+      Listas del Museo
+      </button>
+
     </ion-col>
   </ion-row>
 </ion-header>
 
 <ion-content [attr.newScroll] = 'shouldScroll'>
   <div id = "map"></div>
+
 </ion-content>

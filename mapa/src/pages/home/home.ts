@@ -20,6 +20,7 @@ export class HomePage {
 
   ingresar() {
     this.navCtrl.push(MapaPage);
+    
   }
   
   ionViewDidLoad() {
