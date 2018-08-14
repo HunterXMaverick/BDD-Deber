@@ -12369,11 +12369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\HunterX\\Desktop\\PI-2-Mapas\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "F:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\HunterX\\Desktop\\PI-2-Mapas\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\HunterX\\.nuget\\packages\\",
-      "outputPath": "F:\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\HunterX\\Desktop\\PI-2-Mapas\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

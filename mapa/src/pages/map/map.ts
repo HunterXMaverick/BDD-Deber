@@ -81,7 +81,7 @@ export class MapaPage {
       .setContent("Antiguo Banco Central del Ecuador.")
       .openOn(this.map);
 
-    //Basilica del devoto nacional, Quito
+    //Basilica del devoto nacional
     var basilica = L.marker([0.2154759, -78.5098654]).addTo(this.map);
 
     var popup = L.popup()
