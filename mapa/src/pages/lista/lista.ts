@@ -15,8 +15,9 @@ export class ListaPage {
       {
         'title': 'Panecillo',
         'icon': 'image',
+        'imagen': 'http://musicaymercado.org/wp-content/uploads/2017/02/DJI_0325-RES-1200x545_c.jpg',
         'description': 'Es el sitio más visitado de la ciudad. Se ha convertido en el más importante mirador natural de la ciudad, desde el que se puede apreciar la disposición urbana de la capital ecuatoriana, desde su centro histórico y hacia los extremos norte y sur.',
-        'color': '#E63135'
+        'color': '#0CA9EA'
       },
       {
         'title': 'La Ronda',
@@ -32,43 +33,43 @@ export class ListaPage {
       },
       {
         'title': 'Teatro Sucre',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       },
       {
         'title': 'Museo de La Ciudad de Quito',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       },
       {
         'title': 'Banco central del Ecuador (atiguo)',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       },
       {
         'title': 'La Basilica',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       },
       {
         'title': 'Catedral Metropolitana de Quito',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       },
       {
         'title': 'Museo del Carmen Alto',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       },
       {
         'title': 'La Merced',
-        'icon': 'css3',
+        'icon': 'image',
         'description': 'The latest version of cascading stylesheets - the styling language of the web!',
         'color': '#0CA9EA'
       }

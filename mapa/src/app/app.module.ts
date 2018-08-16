@@ -8,7 +8,7 @@ import { MapaPage } from '../pages/map/map';
 import { ListaPage } from '../pages/lista/lista';
 import { InfoPage } from '../pages/info/info';
 import { InsertPage } from '../pages/insert/insert';
-
+//import { Http } from '@angular/http';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -20,11 +20,12 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MapaPage,
     ListaPage,
     InfoPage,
-    InsertPage
-  ],
+    InsertPage  ],
   imports: [
     BrowserModule,
+   // Http,
     IonicModule.forRoot(MyApp),
+    
   ],
   bootstrap: [IonicApp],
   entryComponents: [

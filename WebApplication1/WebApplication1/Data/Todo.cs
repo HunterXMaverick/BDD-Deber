@@ -9,7 +9,7 @@ namespace WebApplication1.Data
     {
         public int id { get; set; }
         public string nombre { get; set; }
-        public float latitud { get; set; }
-        public float longitud { get; set; }
+        public float correo { get; set; }
+        public float contrasena { get; set; }
     }
 }

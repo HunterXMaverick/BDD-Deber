@@ -1,12 +1,17 @@
 <ion-content padding center- text-center>
   <ion-title>Map Center</ion-title>
   <ion-list>
+
+    <ion-img src="https://previews.123rf.com/images/valentint/valentint1701/valentint170101948/69364372-iniciar-sesi%C3%B3n-icono-el-bot%C3%B3n-web-negro-sobre-fondo-blanco-.jpg"></ion-img>
+
     <ion-item>
-      <ion-input placeholder="email" type="email"></ion-input>
+      <ion-input placeholder="Email" type="text" [(ngModel)]="usuario"></ion-input>
     </ion-item>
+
     <ion-item>
-      <ion-input palceholder="Password" type="password"></ion-input>
+      <ion-input placeholder="Passwrod" type="password" [(ngModel)]="contrasena"></ion-input>
     </ion-item>
+
   </ion-list>
   <button ion-button (click)="ingresar()">
     Ingresar

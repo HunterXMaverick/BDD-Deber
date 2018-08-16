@@ -4,7 +4,7 @@ import { NavParams } from 'ionic-angular';
 
 import { MapaPage } from '../map/map';
 import { InsertPage } from '../insert/insert';
-
+//import { Http } from '@angular/http';
 
 @Component({
   selector: 'page-home',
@@ -19,9 +19,17 @@ export class HomePage {
 
   }
 
-  ingresar() {
+  /*ingresar() {
     this.navCtrl.push(MapaPage);
     
+  }*/
+
+  ingresar(){
+    let f = {usuario: this.usuario, contrasena: this.contrasena}
+    console.log(this.usuario);
+    console.log(this.contrasena);
+    this.navCtrl.push(MapaPage);
+
   }
 
   registrar() {
