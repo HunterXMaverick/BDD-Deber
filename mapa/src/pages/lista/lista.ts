@@ -15,7 +15,6 @@ export class ListaPage {
       {
         'title': 'Panecillo',
         'icon': 'image',
-        'imagen': 'http://musicaymercado.org/wp-content/uploads/2017/02/DJI_0325-RES-1200x545_c.jpg',
         'description': 'Es el sitio más visitado de la ciudad. Se ha convertido en el más importante mirador natural de la ciudad, desde el que se puede apreciar la disposición urbana de la capital ecuatoriana, desde su centro histórico y hacia los extremos norte y sur.',
         'color': '#0CA9EA'
       },
