@@ -1,12 +1,13 @@
-Create database Ubicacion;
 
-Use Ubicacion;
+Create database Registro;
+Use Registro;
 
-Create table Registro(
+Create table Todos(
 id int not null auto_increment,
 primary key (id),
-nombre varchar(20) not null,
+nombreUsuario varchar(20) not null,
 correo varchar(50) not null,
-contrasena varchar(50) not null
-)
+contraseña varchar(50) not null
+);
 
+select * from Todos; 

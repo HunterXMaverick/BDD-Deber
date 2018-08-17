@@ -7,7 +7,7 @@ import { HomePage } from '../pages/home/home';
 import { MapaPage } from '../pages/map/map';
 import { ListaPage } from '../pages/lista/lista';
 import { InfoPage } from '../pages/info/info';
-import { InsertPage } from '../pages/insert/insert';
+import { RegistrarsePage } from '../pages/registrarse/registrarse';
 //import {Http} from '@angular/http';
 
 @Component({
@@ -29,7 +29,7 @@ export class MyApp {
       { title: 'Map', component: MapaPage },
       { title: 'Lista', component: ListaPage },
       { title: 'Info', component: InfoPage },
-      { title: 'Insert', component: InsertPage },
+      { title: 'Registrarse', component: RegistrarsePage },
       
 
 

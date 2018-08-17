@@ -1,14 +1,14 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { ErrorHandler, NgModule } from '@angular/core';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
+import { HttpModule } from '@angular/http';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { MapaPage } from '../pages/map/map';
 import { ListaPage } from '../pages/lista/lista';
 import { InfoPage } from '../pages/info/info';
-import { InsertPage } from '../pages/insert/insert';
-//import { Http } from '@angular/http';
+import { RegistrarsePage } from '../pages/registrarse/registrarse';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -20,10 +20,11 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MapaPage,
     ListaPage,
     InfoPage,
-    InsertPage  ],
+    RegistrarsePage
+    ],
   imports: [
     BrowserModule,
-   // Http,
+    HttpModule,
     IonicModule.forRoot(MyApp),
     
   ],
@@ -34,7 +35,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MapaPage,
     ListaPage,
     InfoPage,
-    InsertPage
+    RegistrarsePage
   ],
   providers: [
     StatusBar,

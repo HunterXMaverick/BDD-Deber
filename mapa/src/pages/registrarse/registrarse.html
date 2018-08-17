@@ -1,0 +1,50 @@
+<!--
+  Generated template for the RegistrarsePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Registrarse</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+
+    <ion-list>
+
+        <ion-item>
+            <ion-label fixed>Nombre Usuario</ion-label>
+            <ion-input id=1 type="text" [(ngModel)]="nombre"></ion-input>
+          </ion-item>
+
+
+
+        <ion-item>
+          <ion-label fixed>Correo</ion-label>
+          <ion-input id=2 type="email" [(ngModel)]="correo"></ion-input>
+        </ion-item>
+    
+        <ion-item>
+          <ion-label fixed>Contraseña</ion-label>
+          <ion-input id=3 type="password" [(ngModel)]="contrasena"></ion-input>
+        </ion-item>
+
+
+    
+      </ion-list>
+    
+      <button ion-button
+            
+              block
+              (click)="enviar()">
+        Enviar
+      </button>
+
+
+</ion-content>

@@ -3,8 +3,7 @@ import { NavController } from 'ionic-angular';
 import { NavParams } from 'ionic-angular';
 
 import { MapaPage } from '../map/map';
-import { InsertPage } from '../insert/insert';
-//import { Http } from '@angular/http';
+import { RegistrarsePage } from '../registrarse/registrarse';
 
 @Component({
   selector: 'page-home',
@@ -12,6 +11,7 @@ import { InsertPage } from '../insert/insert';
 })
 export class HomePage {
 
+  nombre: string;
   usuario: string;
   contrasena: string;
 
@@ -19,10 +19,6 @@ export class HomePage {
 
   }
 
-  /*ingresar() {
-    this.navCtrl.push(MapaPage);
-    
-  }*/
 
   ingresar(){
     let f = {usuario: this.usuario, contrasena: this.contrasena}
@@ -33,7 +29,7 @@ export class HomePage {
   }
 
   registrar() {
-    this.navCtrl.push(InsertPage);
+    this.navCtrl.push(RegistrarsePage);
   }
   
   ionViewDidLoad() {

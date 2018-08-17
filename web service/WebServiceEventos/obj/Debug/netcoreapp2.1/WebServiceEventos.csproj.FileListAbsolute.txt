@@ -1,0 +1,98 @@
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\User\source\repos\WebServiceEventos\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
+D:\Proyecto Eventos\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+D:\Proyecto Eventos\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+D:\Proyecto Eventos\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+D:\Proyecto Eventos\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+D:\Proyecto Eventos\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+D:\Proyecto Eventos\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+F:\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+F:\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+F:\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+F:\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+F:\Web Service\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+F:\Web Service\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\webservice\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\webservice\web\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.deps.json
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.json
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\bin\Debug\netcoreapp2.1\WebServiceEventos.pdb
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.AssemblyInfo.cs
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.dll
+C:\Users\pc\Desktop\Proyecto ionico\WEb Service gabriel Funcionando\WebServiceEventos\obj\Debug\netcoreapp2.1\WebServiceEventos.pdb
